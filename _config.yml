@@ -1,0 +1,21 @@
+title: eBox-官网 | 简单、快速的开发平台供应商
+subtitle: "A simple,fast open source hardware platform."
+description: "ebox is a microcontroller-independent firmware library"
+author: shentq
+language: en
+timezone: UTC
+url: https://eboxmaker.com
+root: /
+permalink: news/:year/:month/:day/:title/
+archive_dir: news
+code_dir: downloads/code
+new_post_name: :year-:month-:day-:title.md # File name of new posts
+post_asset_folder: true
+highlight:
+  enable: true
+  line_number: false
+per_page: 0
+
+theme: navy
+twitter: none
+github: eboxmaker

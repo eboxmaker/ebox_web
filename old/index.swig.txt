@@ -1,0 +1,1 @@
+    <div id="banner-share">{{ partial('partial/share') }}</div>
