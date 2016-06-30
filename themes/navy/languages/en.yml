@@ -21,6 +21,9 @@ sidebar:
   docs:
     getting_started: 开始使用
     overview: 概述
+    start_stm32f1xx: STM32F1入门
+    start_stm32f4xx: STM32F4入门
+    start_k60: K60入门
     setup: 建站
     configuration: 配置
     commands: 命令

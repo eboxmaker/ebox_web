@@ -1,6 +1,9 @@
 docs:
   getting_started:
     overview: index.html
+    start_stm32f1xx: start_stm32f1xx.html
+    start_stm32f4xx: start_stm32f4xx.html
+    start_k60: start_k60.html
     setup: setup.html
     configuration: configuration.html
     commands: commands.html
